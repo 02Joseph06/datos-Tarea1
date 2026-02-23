@@ -1,4 +1,4 @@
-# datos-Tarea1
+# ESTRUCTURA DE DATOS LINEALES
 
 Tarea 1 realizado por:
 
