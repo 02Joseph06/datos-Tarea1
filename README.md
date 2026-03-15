@@ -1,9 +1,11 @@
 # ESTRUCTURA DE DATOS LINEALES
 
-Tarea 1 realizado por:
+Trabajos realizados por:
 
 Samuel Moya
 
 Juan Holguin
 
 Luigi Rincon
+
+Sebastian Garcia
